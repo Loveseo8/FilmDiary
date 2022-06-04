@@ -4,10 +4,13 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/magga/AndroidStudioProjects/FilmDiary/app/src/main/res/layout/activity_authorization.xml" value="0.17617753623188406" />
+        <entry key="..\:/Users/magga/AndroidStudioProjects/FilmDiary/app/src/main/res/layout/activity_feed.xml" value="0.19519927536231885" />
         <entry key="..\:/Users/magga/AndroidStudioProjects/FilmDiary/app/src/main/res/layout/activity_main.xml" value="0.17617753623188406" />
         <entry key="..\:/Users/magga/AndroidStudioProjects/FilmDiary/app/src/main/res/layout/activity_profile.xml" value="0.25" />
+        <entry key="..\:/Users/magga/AndroidStudioProjects/FilmDiary/app/src/main/res/layout/create_review_dialog.xml" value="0.25" />
+        <entry key="..\:/Users/magga/AndroidStudioProjects/FilmDiary/app/src/main/res/layout/edit_review_dialog.xml" value="0.2" />
+        <entry key="..\:/Users/magga/AndroidStudioProjects/FilmDiary/app/src/main/res/layout/review_row.xml" value="0.25" />
         <entry key="..\:/Users/magga/AndroidStudioProjects/FilmDiary/app/src/main/res/menu/profile.xml" value="0.27291666666666664" />
-        <entry key="app/src/main/res/menu/profile.xml" value="0.1" />
       </map>
     </option>
   </component>
