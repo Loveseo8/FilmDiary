@@ -17,8 +17,7 @@
         <activity
             android:name=".Feed"
             android:exported="false"
-            android:label="@string/title_activity_feed"
-            android:theme="@style/AppTheme" />
+            android:label="@string/title_activity_feed" />
         <activity
             android:name=".Profile"
             android:exported="false" />
